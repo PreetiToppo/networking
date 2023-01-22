@@ -1,0 +1,27 @@
+.App{
+  background-color: aquamarine;
+}
+.name {
+  display: flex;
+  margin-left: 40%;
+  margin-bottom:10px; 
+}
+
+.pass {
+  display: flex;
+  margin-left: 40%;
+  margin-bottom:10px; 
+}
+
+p{
+  font-weight: bold;
+}
+
+.button{
+  color: beige;
+  background-color: blue;
+}
+
+h1{
+  color: blue;
+}

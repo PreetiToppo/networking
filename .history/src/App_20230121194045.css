@@ -1,0 +1,16 @@
+.App{
+  background-color: aquamarine;
+}
+.name {
+  display: flex;
+
+}
+
+.pass {
+  display: flex;
+  padding: 5% 5%;
+}
+
+p{
+  font-weight: bold;
+}

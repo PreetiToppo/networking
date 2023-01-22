@@ -1,0 +1,11 @@
+.App{
+  background-color: aquamarine;
+}
+.name {
+  display: flex;
+
+}
+
+.password {
+  display: flex;
+}
