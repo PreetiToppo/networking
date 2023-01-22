@@ -21,7 +21,7 @@ function Feed() {
     const copyArray = posts;
     copyArray.unshift({
       userId: 10,
-      name: "Preeti",
+      name: "Harshit",
       tags: ["HTML", "CSS"],
       body: input,
     });
